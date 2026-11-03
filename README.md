@@ -7,6 +7,9 @@ A camera-based musical instrument that lets you control chords, tone, and expres
 🎥 Watch the Gesture Synth tutorial on Instagram:
 https://www.instagram.com/p/DbH1BACxNCG/
 
+## Run
+`npm ci && npm run dev`, then open http://localhost:5173 and allow camera access.
+
 ## Features
 - Left hand controls chord selection
 - Right hand controls voicing and expression
